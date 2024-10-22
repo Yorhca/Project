@@ -1,0 +1,58 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 3px 3px 3px #ffe100;
+}
+h1:hover{
+    text-decoration: overline underline;
+    color: yellow;
+}
+a:link{
+    color: purple
+}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+a:visited{
+    color: red;
+}
+.p1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-indent: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.p2{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-indent: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.img{
+    text-align: center;
+}
+.miku{
+    text-align: left;
+    width: 20%;
+    display: block;
+}
+.miku:hover{
+    border-radius: 50px;
+    
+}
+.ass{
+    letter-spacing: 10px;
+    text-align: right;
+    word-spacing: 20px;
+}
+
+
+
+/* valor; propriedade; e seletor{}
